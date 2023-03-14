@@ -15,12 +15,14 @@
     </head>
 
     <body>
-        <nav class="navbar" style="background-color: #000000">
+        <nav class="navbar" style="background-color: #f0f0f0">
             <div class="app-header">
                 <a href="/">
-                    <img src="./logo.png" class="logo" />
+                    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FS%2Fabs-image-upload-na%2Fa%2FAmazonStores%2FATVPDKIKX0DER%2F09c5efd689163a0a49394af6c5a019be.w400.h400._CR0%252C0%252C400%252C400_SX400_.jpg&f=1&nofb=1&ipt=312d42695b3021b58a21f111d8632c772a675210ded7f870e5ee366d150b2f0b&ipo=images"class="logo" 
+                    alt="CW" width="100" height="100"
+                    />
                 </a>
-                <a class="title" href="" style="color: #f0ab3c">Hello World</a>
+                <a class="title" href="" style="color: #f0ab3c">Hello Collecting Warehouse!</a>
             </div>
         </nav>
 
@@ -29,7 +31,7 @@
             
 
             <section class="pyscript">
-                Hello world! <br>
+                Hello CW! <br>
                 This is the current date and time, as computed by Python:
                 <py-script>
                     from datetime import datetime
